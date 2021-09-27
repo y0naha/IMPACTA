@@ -1,0 +1,3 @@
+from BuscaBestFirst import *
+
+executaBuscaBestFirst()

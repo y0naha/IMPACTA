@@ -1,0 +1,3 @@
+from BuscaHeuristica import *
+
+executaHeuristica()
